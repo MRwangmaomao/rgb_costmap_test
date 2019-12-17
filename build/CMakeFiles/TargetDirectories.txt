@@ -1,0 +1,4 @@
+/home/wpr/code/slam_sys/rgb_xy_test/build/CMakeFiles/rebuild_cache.dir
+/home/wpr/code/slam_sys/rgb_xy_test/build/CMakeFiles/rgb2xy.dir
+/home/wpr/code/slam_sys/rgb_xy_test/build/CMakeFiles/edit_cache.dir
+/home/wpr/code/slam_sys/rgb_xy_test/build/CMakeFiles/joinMap.dir
